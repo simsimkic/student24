@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfPatient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Patient>
+    <guestAccount>true</guestAccount>
+    <name>lola</name>
+    <surname>lolic</surname>
+    <jmbg>e34</jmbg>
+    <dateOfBirth>0001-01-01T00:00:00</dateOfBirth>
+    <notification />
+  </Patient>
+  <Patient>
+    <guestAccount>true</guestAccount>
+    <name>fdwefdsa</name>
+    <surname>fsdafs</surname>
+    <jmbg>fsdfdsa</jmbg>
+    <dateOfBirth>0001-01-01T00:00:00</dateOfBirth>
+  </Patient>
+</ArrayOfPatient>

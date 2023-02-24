@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<ArrayOfSecretary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Secretary>
+    <guestAccount>false</guestAccount>
+    <userName>aco123</userName>
+    <password>acika123</password>
+    <name>fasfda</name>
+    <surname>fasfsa</surname>
+    <jmbg>dasdfsa</jmbg>
+    <dateOfBirth>2020-06-02T00:00:00</dateOfBirth>
+    <phoneNumber>dsa</phoneNumber>
+    <gender>M</gender>
+    <email>fsad</email>
+    <address>as</address>
+    <notification />
+    <id>0</id>
+    <salary>40000</salary>
+    <numberOfDaysUsed>0</numberOfDaysUsed>
+  </Secretary>
+  <Secretary>
+    <guestAccount>false</guestAccount>
+    <userName>mia</userName>
+    <password>mia123</password>
+    <name>lkd;lskd</name>
+    <surname>x\sz</surname>
+    <jmbg>csc</jmbg>
+    <dateOfBirth>2020-06-01T00:00:00</dateOfBirth>
+    <phoneNumber>cxz</phoneNumber>
+    <gender>M</gender>
+    <email>vfdc</email>
+    <address>cxz</address>
+    <notification />
+    <id>0</id>
+    <salary>40000</salary>
+    <numberOfDaysUsed>0</numberOfDaysUsed>
+  </Secretary>
+  <Secretary>
+    <guestAccount>false</guestAccount>
+    <userName>vxzvzvzx</userName>
+    <password>xvxzvxz</password>
+    <name>vxzvzx</name>
+    <surname>vzxxz</surname>
+    <jmbg>vxzvz</jmbg>
+    <dateOfBirth>2020-06-01T00:00:00</dateOfBirth>
+    <phoneNumber />
+    <gender />
+    <email />
+    <address />
+    <id>0</id>
+    <salary>40000</salary>
+    <numberOfDaysUsed>0</numberOfDaysUsed>
+  </Secretary>
+</ArrayOfSecretary>

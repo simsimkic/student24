@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<ArrayOfPatient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Patient>
+    <guestAccount>false</guestAccount>
+    <userName>tara</userName>
+    <password>tara123</password>
+    <name>dsaljdksa</name>
+    <surname>klsajdksa</surname>
+    <jmbg>32432</jmbg>
+    <dateOfBirth>2020-06-01T00:00:00</dateOfBirth>
+    <phoneNumber>dsa</phoneNumber>
+    <gender>M</gender>
+    <email>dasfd</email>
+    <address>dsa</address>
+    <notification />
+  </Patient>
+  <Patient>
+    <guestAccount>false</guestAccount>
+    <userName>mara</userName>
+    <password>mara123</password>
+    <name>mdsa</name>
+    <surname>dsadsa</surname>
+    <jmbg>czcz</jmbg>
+    <dateOfBirth>2020-06-15T00:00:00</dateOfBirth>
+    <phoneNumber>cz</phoneNumber>
+    <gender>M</gender>
+    <email>cz</email>
+    <address>cz</address>
+    <notification />
+  </Patient>
+  <Patient>
+    <guestAccount>false</guestAccount>
+    <userName>dsadsa</userName>
+    <password>dsadad</password>
+    <name>dsad</name>
+    <surname>dasds</surname>
+    <jmbg>e34</jmbg>
+    <dateOfBirth>2020-06-07T00:00:00</dateOfBirth>
+    <phoneNumber>a</phoneNumber>
+    <gender>M</gender>
+    <email>das</email>
+    <address>dad</address>
+    <notification />
+  </Patient>
+  <Patient>
+    <guestAccount>false</guestAccount>
+    <userName>x\zx\</userName>
+    <password>xz\cxz</password>
+    <name>xzf</name>
+    <surname>cxcxzcz</surname>
+    <jmbg>fsdfdsa</jmbg>
+    <dateOfBirth>2020-06-02T00:00:00</dateOfBirth>
+    <phoneNumber>czx</phoneNumber>
+    <gender>M</gender>
+    <email>czxcxz</email>
+    <address>czx</address>
+    <notification />
+  </Patient>
+  <Patient>
+    <guestAccount>false</guestAccount>
+    <userName>nmbmnb</userName>
+    <password>nkjn,mn</password>
+    <name />
+    <surname />
+    <jmbg />
+    <dateOfBirth>2020-06-01T00:00:00</dateOfBirth>
+    <phoneNumber />
+    <gender />
+    <email />
+    <address />
+    <notification />
+  </Patient>
+  <Patient>
+    <guestAccount>false</guestAccount>
+    <userName>dsadsadsa</userName>
+    <password>dsadsadsdsa</password>
+    <name />
+    <surname />
+    <jmbg>csdsa</jmbg>
+    <dateOfBirth>2020-05-19T00:00:00</dateOfBirth>
+    <phoneNumber />
+    <gender />
+    <email />
+    <address />
+  </Patient>
+</ArrayOfPatient>

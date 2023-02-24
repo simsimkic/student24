@@ -1,0 +1,17 @@
+﻿<Window x:Class="SimsProject.View.Termini"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimsProject.View"
+        mc:Ignorable="d"
+        Title="Termini" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="xTerminiData" SelectionChanged="xTerminiData_SelectionChanged"  Margin="45,106,77,142" FontSize="20" AutoGenerateColumns="True"  
+                  SelectionMode="Single" HeadersVisibility="Column" IsReadOnly="True">
+           
+        </DataGrid>
+        <Button IsEnabled="False" x:Name="Zakazi" Click="Zakazi_Click" Content="Button" HorizontalAlignment="Left" Margin="354,329,0,0" VerticalAlignment="Top" Width="98" Height="29"/>
+
+    </Grid>
+</Window>

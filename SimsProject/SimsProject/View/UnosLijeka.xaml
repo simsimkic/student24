@@ -1,0 +1,23 @@
+﻿<Window x:Class="SimsProject.View.UnosLijeka"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimsProject.View"
+        mc:Ignorable="d"
+        Title="UnosLijeka" Height="450" Width="800">
+    <Grid Background="LightGray">
+        <TextBlock HorizontalAlignment="Left" Margin="313,10,0,0" TextWrapping="Wrap" Text="Unos lijeka" FontSize="36" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="62,117,0,0" TextWrapping="Wrap" Text="Ime lijeka:" FontSize="20" VerticalAlignment="Top"/>
+        <TextBox x:Name="xIme" HorizontalAlignment="Left" Height="23" Margin="235,121,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="140" RenderTransformOrigin="0.786,0.435"/>
+        <TextBlock HorizontalAlignment="Left" Margin="62,165,0,0" TextWrapping="Wrap" Text="Kolicina lijeka:" FontSize="20" VerticalAlignment="Top"/>
+        <TextBox x:Name="xKolicina" HorizontalAlignment="Left" Height="23" Margin="235,168,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="140"/>
+        <Button Content="Potvrdi" Click="Button_Click" FontSize="20" Foreground="White" Background="Gray" HorizontalAlignment="Left" Margin="260,365,0,0" VerticalAlignment="Top" Width="115" Height="45" RenderTransformOrigin="-0.911,0.338"/>
+        <TextBlock  FontSize="20" HorizontalAlignment="Left" Margin="62,214,0,0" TextWrapping="Wrap" Text="Sastojci:" VerticalAlignment="Top"/>
+        <TextBox x:Name="xSastojci" HorizontalAlignment="Left" Height="101" Margin="235,214,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="140"/>
+        <TextBox Background="LightGray" HorizontalAlignment="Left" Height="70" Margin="62,245,0,0" TextWrapping="Wrap" Text="Sastojke odvojite zarezom!       Npr. sastojak1-odnos,    sastojak2-odnos,  sastojak3-odnos..." VerticalAlignment="Top" Width="153"/>
+        <Button Content="Lijekovi za validaciju" HorizontalAlignment="Left" Height="45" Margin="425,365,0,0" VerticalAlignment="Top" Width="110" RenderTransformOrigin="0.517,0.004" Click="Button_Click_3" />
+
+
+    </Grid>
+</Window>

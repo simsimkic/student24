@@ -1,0 +1,23 @@
+﻿<Window x:Class="SimsProject.View.MojiPregledi"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimsProject.View"
+        mc:Ignorable="d"
+        Title="MojiPregledi" Height="450" Width="800">
+    <Grid Background="LightGray">
+        <DataGrid  x:Name="xMojiPregledi" FontSize="20"  AutoGenerateColumns="False"  
+                  SelectionMode="Single" HeadersVisibility="Column" IsReadOnly="True" HorizontalAlignment="Left" Height="342" Margin="44,25,0,0" 
+                  VerticalAlignment="Top" Width="693" RenderTransformOrigin="0.5,0.5" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Ime ljekara" Binding="{Binding doctor.name}"/>
+                <DataGridTextColumn Header="Prezime ljekara" Binding="{Binding doctor.surname}"/>
+                <DataGridTextColumn Header="Pocetak" Binding="{Binding term.start}"/>
+                <DataGridTextColumn Header="Kraj" Binding="{Binding term.end}"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

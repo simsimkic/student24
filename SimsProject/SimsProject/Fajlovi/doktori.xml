@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<ArrayOfDoctor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Doctor>
+    <guestAccount>false</guestAccount>
+    <userName>rea</userName>
+    <password>rea123</password>
+    <name>kasdj</name>
+    <surname>DSAFA</surname>
+    <jmbg>cxzcxz</jmbg>
+    <dateOfBirth>2020-06-09T00:00:00</dateOfBirth>
+    <phoneNumber>ds</phoneNumber>
+    <gender>M</gender>
+    <email>cxzczx</email>
+    <address>grwd</address>
+    <notification />
+    <id>0</id>
+    <salary>40000</salary>
+    <numberOfDaysUsed>0</numberOfDaysUsed>
+    <specialty>
+      <name>Zubar</name>
+    </specialty>
+  </Doctor>
+  <Doctor>
+    <guestAccount>false</guestAccount>
+    <userName>veca</userName>
+    <password>veca123</password>
+    <name>Verica</name>
+    <surname>Mucibabic</surname>
+    <jmbg>fadsfa</jmbg>
+    <dateOfBirth>2020-06-01T00:00:00</dateOfBirth>
+    <phoneNumber>fda</phoneNumber>
+    <gender>M</gender>
+    <email>fsa</email>
+    <address>fafa</address>
+    <notification />
+    <id>0</id>
+    <salary>40000</salary>
+    <numberOfDaysUsed>0</numberOfDaysUsed>
+    <specialty>
+      <name>Zubar</name>
+    </specialty>
+  </Doctor>
+  <Doctor>
+    <guestAccount>false</guestAccount>
+    <userName>dsadadsa</userName>
+    <password>sfsafsafsa</password>
+    <name>dsadsa</name>
+    <surname>dsadsa</surname>
+    <jmbg>fsaasd</jmbg>
+    <dateOfBirth>2020-06-01T00:00:00</dateOfBirth>
+    <phoneNumber />
+    <gender />
+    <email />
+    <address />
+    <id>0</id>
+    <salary>40000</salary>
+    <numberOfDaysUsed>0</numberOfDaysUsed>
+    <specialty>
+      <name />
+    </specialty>
+  </Doctor>
+</ArrayOfDoctor>

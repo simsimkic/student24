@@ -1,0 +1,680 @@
+<?xml version="1.0"?>
+<ArrayOfDrug xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Drug>
+    <ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>30</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>30</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>40</percent>
+      </Ratio>
+    </ratio>
+    <name>brufen</name>
+    <id>0</id>
+    <state>FOR VALIDATION</state>
+  </Drug>
+  <Drug>
+    <ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+    </ratio>
+    <name>andol</name>
+    <id>0</id>
+    <state>FOR VALIDATION</state>
+  </Drug>
+  <Drug>
+    <ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+    </ratio>
+    <name>andol</name>
+    <id>0</id>
+    <state>FOR VALIDATION</state>
+  </Drug>
+  <Drug>
+    <ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+    </ratio>
+    <name>paracetamol</name>
+    <id>0</id>
+    <state>FOR VALIDATION</state>
+  </Drug>
+  <Drug>
+    <ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>7</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>8</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>9</percent>
+      </Ratio>
+    </ratio>
+    <name>paracetamol</name>
+    <id>0</id>
+    <state>FOR VALIDATION</state>
+  </Drug>
+  <Drug>
+    <ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>7</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>8</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>9</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>7</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>8</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>9</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>7</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>8</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>9</percent>
+      </Ratio>
+    </ratio>
+    <name>szdxfgvhbjn</name>
+    <id>0</id>
+    <state>FOR VALIDATION</state>
+  </Drug>
+  <Drug>
+    <ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>9</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+    </ratio>
+    <name>brufen</name>
+    <id>0</id>
+    <state>FOR VALIDATION</state>
+  </Drug>
+  <Drug>
+    <ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>9</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>9</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+    </ratio>
+    <name>brufen1</name>
+    <id>0</id>
+    <state>FOR VALIDATION</state>
+  </Drug>
+  <Drug>
+    <ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>9</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>9</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>9</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+    </ratio>
+    <name>brufen1</name>
+    <id>0</id>
+    <state>FOR VALIDATION</state>
+  </Drug>
+  <Drug>
+    <ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>6</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+    </ratio>
+    <name>dfghjnk</name>
+    <id>0</id>
+    <state>FOR VALIDATION</state>
+  </Drug>
+  <Drug>
+    <ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>5</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>6</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>3</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>88</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>33</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>  sastojak3</nameIngredient>
+        <percent>77</percent>
+      </Ratio>
+    </ratio>
+    <name>par</name>
+    <id>0</id>
+    <state>FOR VALIDATION</state>
+  </Drug>
+  <Drug>
+    <ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>odnos</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>odnos</percent>
+      </Ratio>
+    </ratio>
+    <name>brufen</name>
+    <id>0</id>
+    <state>FOR VALIDATION</state>
+  </Drug>
+  <Drug>
+    <ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>odnos</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>odnos</percent>
+      </Ratio>
+    </ratio>
+    <name>rengal</name>
+    <id>0</id>
+    <state>FOR VALIDATION</state>
+  </Drug>
+  <Drug>
+    <ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>odnos</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>odnos</percent>
+      </Ratio>
+    </ratio>
+    <name>brufen2</name>
+    <id>0</id>
+    <state>FOR VALIDATION</state>
+  </Drug>
+  <Drug>
+    <ratio>
+      <Ratio>
+        <nameIngredient>sastojak1</nameIngredient>
+        <percent>odnos</percent>
+      </Ratio>
+      <Ratio>
+        <nameIngredient>    sastojak2</nameIngredient>
+        <percent>odnos</percent>
+      </Ratio>
+    </ratio>
+    <name>andol</name>
+    <id>0</id>
+    <state>FOR VALIDATION</state>
+  </Drug>
+</ArrayOfDrug>

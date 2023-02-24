@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Manager>
+    <guestAccount>false</guestAccount>
+    <userName>glavna</userName>
+    <password>glavna123</password>
+    <name>Kristina</name>
+    <surname>Mucibabic</surname>
+    <jmbg>12345584</jmbg>
+    <dateOfBirth>2020-06-29T01:34:41.4045532+02:00</dateOfBirth>
+    <phoneNumber>423432</phoneNumber>
+    <email>glavna@d.com</email>
+    <id>1</id>
+    <salary>10000</salary>
+    <numberOfDaysUsed>10</numberOfDaysUsed>
+  </Manager>
+</ArrayOfManager>

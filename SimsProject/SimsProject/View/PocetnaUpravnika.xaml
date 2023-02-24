@@ -1,0 +1,16 @@
+﻿<Window x:Class="SimsProject.View.PocetnaUpravnika"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimsProject.View"
+        mc:Ignorable="d"
+        Title="PocetnaUpravnika" Height="450" Width="800">
+    <Grid Background="LightGray">
+        <Button Background="Gray" Foreground="White" FontSize="18" x:Name="registrujLjekara" Click="registrujLjekara_Click" Content="Registruj ljekara" HorizontalAlignment="Left" Margin="198,137,0,0" VerticalAlignment="Top" Width="174" Height="38"/>
+        <Button x:Name="registrujSekretara" Background="Gray" Foreground="White" FontSize="18" Click="registrujSekretara_Click" Content="Registruj sekretara" HorizontalAlignment="Left" Margin="476,137,0,0" VerticalAlignment="Top" Width="174" Height="38"/>
+        <Button Background="Gray" Foreground="White" FontSize="18" Content="Radno vrijeme" Click="Button_Click" HorizontalAlignment="Left" Margin="198,215,0,0" VerticalAlignment="Top" Width="174" Height="40"/>
+        <Button Content="Unos lijeka" Click="Button_Click_1" Background="Gray" Foreground="White" FontSize="18" HorizontalAlignment="Left" Margin="476,215,0,0" VerticalAlignment="Top" Width="174" Height="40"/>
+
+    </Grid>
+</Window>

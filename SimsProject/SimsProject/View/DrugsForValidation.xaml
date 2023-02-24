@@ -1,0 +1,25 @@
+﻿<Window x:Class="SimsProject.View.DrugsForValidation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimsProject.View"
+        mc:Ignorable="d"
+        Title="DrugsForValidation" Height="450" Width="800">
+    <Grid>
+        <DataGrid  x:Name="xLijekovi" FontSize="20"  AutoGenerateColumns="False"  
+                  SelectionMode="Single" HeadersVisibility="Column" IsReadOnly="True" HorizontalAlignment="Left" Height="290" Margin="44,25,0,0" 
+                  VerticalAlignment="Top" Width="693" RenderTransformOrigin="0.5,0.5" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Naziv" Binding="{Binding name}"/>
+                <DataGridTextColumn Header="Id" Binding="{Binding id}"/>
+                <DataGridTextColumn Header="Stanje" Binding="{Binding state}"/>
+                <DataGridTextColumn Header="Sastojci" Binding="{Binding lista.ratio.nameIngredient}"/>
+                <DataGridTextColumn Header="Kolicina" Binding="{Binding percent}"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Potvrdi validaciju" Click="Button_Click" HorizontalAlignment="Left" Height="30" Margin="115,350,0,0" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
